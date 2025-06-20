@@ -19,7 +19,6 @@ if (isset($_GET['cancel'])) {
 }
 require_once('partials/_head.php');
 ?>
-
 <style>
     .header {
         position: relative;
